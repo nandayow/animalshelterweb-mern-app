@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pegasus",
+    "age": "2",
+    "breed": "Bulldog",
+    "gender": "Male",
+    "cateogry": "Dog",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "animals/bulldog_xl3tle",
+        "url": " https://res.cloudinary.com/dajikbz7m/image/upload/v1650624565/animals/bulldog_xl3tle.jpg"
+      }
+    ],
+    "healths": [],
+    "healthstatus": "Not Cured",
+    "rescuer": "Shelter",
+    "numOfReviews": 4,
+    "reviews": [],
+    "adoption": []
+  }
+]
